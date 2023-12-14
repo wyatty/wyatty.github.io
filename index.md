@@ -5,27 +5,32 @@ X
 
 ## Work History
 ### Gradient Energy
-Co-Founder
+**Co-Founder**, Late 2022-Present
 
 X
 
 ### Yize NRG
-Founder
+**Founder**, 2017-2019
+
+X
+
+### HiroFit
+**Co-Founder**, Early 2022-Late 2022
 
 X
 
 ### IEEE GlobalSpec
-Software Engineer
+**Software Engineer**, Left 2020
 
 X
 
 ### Cisco Systems
-Software Engineer Intern
+**Software Engineer Intern**, 2015
 
 X
 
 ### John Deere
-Software Engineer Intern
+**Software Engineer Intern**, Summer 2014 & Summer 2013
 
 X
 
@@ -39,6 +44,9 @@ X
 ## Education
 ### Rensselaer Polytechnic Institute
 B.S. Computer Science 2013-2017
+
+### Cedar Falls High School
+Cedar Falls, Iowa 2010–2013
 
 ## Technical Skills
 X
