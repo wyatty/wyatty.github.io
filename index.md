@@ -38,9 +38,19 @@ X
 
 ## Education
 ### Rensselaer Polytechnic Institute
-B.S. Computer Science
-2013-2017
+B.S. Computer Science 2013-2017
+
+## Technical Skills
+X
 
 ## Miscellaneous
 ### Theta Xi Fraternity
 Brother, Alpha Chapter. Initiated in 2014.
+
+### Other
+I’ve lived in over a dozen cities across several states. New York, New York has been my favorite.
+
+## Contact
+Email: wyatt at gradient dot energy
+[GitHub](https://github.com/wyatty)
+[LinkedIn](http://www.linkedin.com/in/wyattmakedonski)
