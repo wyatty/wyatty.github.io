@@ -52,5 +52,7 @@ I’ve lived in over a dozen cities across several states. New York, New York ha
 
 ## Contact
 Email: wyatt at gradient dot energy
+
 [GitHub](https://github.com/wyatty)
+
 [LinkedIn](http://www.linkedin.com/in/wyattmakedonski)
