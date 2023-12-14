@@ -1,1 +1,0 @@
-# wyatty.github.io
