@@ -6,7 +6,11 @@ I have committed my life to improving the world. This is not a light commitment 
 ## Introduction
 I have been working in energy since before I left college in 2016. I have been working in AI (specifically machine learning) since 2017. Working in energy led me to my work in AI as the technology is capable of solving many problems and creating a lot of value in the world. I apply AI to the energy field.
 
+### AI
 I have built two state of the art machine learning systems (meaning that they are the single best performing system in the world at their task) at both Gradient Energy and Yize NRG (both using deep reinforcement learning). I have built another production machine learning system with superhuman performance on its task (natural language processing) while at IEEE GlobalSpec. I have built another high-performing production machine learning system (computer vision) at HiroFit; there were no published benchmarks for state of the art or human performance (the task was not suited to be compared one-to-one to human performance) so I cannot make a claim that it exceeded their performance, but it was a pioneering system in the field with subjectively higher performance and more features than other systems, and, most importantly, it made our users very happy.
+
+### I’ll Be Honest
+I am not known for my lack of weakness, I have many weaknesses. I have a narrow set of strengths and skills that I try to apply to create value. I try my best to be aware of my gaps and avoid commenting on matters in those areas; I prefer to defer to someone better at those areas. Even in areas where I am relatively strong, I still have much to learn and improve.
 
 ## Work History
 ### [Gradient Energy](https://www.gradient.energy/)
@@ -15,7 +19,6 @@ I have built two state of the art machine learning systems (meaning that they ar
 Gradient Energy optimizes electric vehicle charging using AI.
 
 X
-
 
 ### Yize NRG
 **Founder**, 2017-2019
@@ -64,6 +67,9 @@ X
 ## Miscellaneous
 ### Theta Xi Fraternity (aka “Zoo”)
 Brother, Alpha Chapter. Initiated in 2014.
+
+### Favorite Books
+X
 
 ### Other
 I’ve lived in over a dozen cities across several states. New York, New York has been my favorite.
