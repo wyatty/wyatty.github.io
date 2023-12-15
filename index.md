@@ -176,14 +176,14 @@ Software Technologies
 Brother, Alpha chapter. Initiated in 2014.
 
 ### Favorite Books
-“Meditations” by Marcus Aurelius
-“Zero to One” by Peter Thiel
-“Daily Stoic” by Ryan Holiday
-“Factfulness” by Hans Rosling
-“Extreme Ownership” by Jocko Willink and Leif Babin
-“Strong Towns” by Chuck Marohn
-“Grit” by Angela Duckworth
-“Peak” by Anders Ericsson
+* “Meditations” by Marcus Aurelius
+* “Zero to One” by Peter Thiel
+* “Daily Stoic” by Ryan Holiday
+* “Factfulness” by Hans Rosling
+* “Extreme Ownership” by Jocko Willink and Leif Babin
+* “Strong Towns” by Chuck Marohn
+* “Grit” by Angela Duckworth
+* “Peak” by Anders Ericsson
 
 ### Other
 I’ve lived in over a dozen cities across several states. New York, New York has been my favorite.
