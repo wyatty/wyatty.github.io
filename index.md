@@ -10,32 +10,92 @@ I have been working in energy since before I left college in 2016. I have been w
 I have built two state of the art machine learning systems (meaning that they are the single best performing system in the world at their task) at both Gradient Energy and Yize NRG (both using deep reinforcement learning). I have built another production machine learning system with superhuman performance on its task (natural language processing) while at IEEE GlobalSpec. I have built another high-performing production machine learning system (computer vision) at HiroFit; there were no published benchmarks for state of the art or human performance (the task was not suited to be compared one-to-one to human performance) so I cannot make a claim that it exceeded their performance, but it was a pioneering system in the field with subjectively higher performance and more features than other systems, and, most importantly, it made our users very happy.
 
 ### I’ll Be Honest
-I am not known for my lack of weakness, I have many weaknesses. I have a narrow set of strengths and skills that I try to apply to create value. I try my best to be aware of my gaps and avoid commenting on matters in those areas; I prefer to defer to someone better at those areas. Even in areas where I am relatively strong, I still have much to learn and improve.
+I am not known for my lack of weakness, I have many weaknesses. I have a narrow set of strengths and skills that I try to apply to create value. I try my best to be aware of my gaps and avoid commenting and acting on matters in those areas; I prefer to defer to someone better at those areas. Even in areas where I am relatively strong, I still have much to learn and improve.
 
-## Work History
+![pretty picture 0](https://github.com/wyatty/wyatty.github.io/raw/main/assets/pretty_nn_controlling_grid_0.png "Pretty Picture 0")
+
+## Work Highlights
 ### [Gradient Energy](https://www.gradient.energy/)
 **Co-Founder**, Late 2022-Present
 
 Gradient Energy optimizes electric vehicle charging using AI.
 
-X
+#### Explained
+TODO: Explain
+* X
+
+#### Impact
+TODO: IMPACT
+* X
+
+#### AI
+TODO: AI work 
+* X
+
+#### More
+TODO: Misc SW work
+* X
 
 ### Yize NRG
 **Founder**, 2017-2019
 
-Yize NRG ("wise energy") used AI to optimize the operations of HVAC (heating and cooling) systems for big savings and grid flexibility.
+Yize NRG ("wise energy") used AI to optimize the operations of HVAC (heating and cooling) systems for buildings for big savings and grid flexibility.
 
-X
+#### Explained
+TODO: Explain
+* X
+
+#### Impact
+Optimizing HVAC systems seems pretty boring and esoteric. Are you wondering about the implications and impacts of it? Contact me, they're more than you think.
+
+#### AI
+TODO: AI work 
+* X
+
+#### More
+TODO: Misc SW work
+* X
 
 ### HiroFit
 **Co-Founder**, Early 2022-Late 2022
 
+#### Explained
+TODO: Explain
+* X
+
+#### Impact
+TODO: IMPACT
+* X
+
+#### AI
+TODO: AI work 
+* X
+
+#### More
+TODO: Misc SW work
 X
 
 ### IEEE GlobalSpec
 **Software Engineer**, Left 2020, Albany, New York
 
-X
+#### Auto Parts Classification
+I led a team that built a machine learning (AI) system to automate and accelerate the ingestion of content onto the company’s catalog.
+
+#### Explained
+TODO: Explain
+* X
+
+#### Impact
+TODO: IMPACT
+* X
+
+#### AI
+TODO: AI work 
+* X
+
+#### More
+TODO: Misc SW work
+* X
 
 ### Cisco Systems
 **Software Engineer Intern**, 2015, San Jose, California
@@ -48,11 +108,16 @@ We created an internal financial management and tracking application managing ov
 I created a warranty data system that connected warranty claims with specific production segments, departments, and locations in their tractor factories. Within months of release, it was being used in multiple factories located around the world. The software used Excel as the primary UI, streamed analytics to SAS, and integrated with the enterprise SAP database.
 
 ## Research Topics
-(grid arch. papers)
+I try to advance the world by releasing knowledge completely open source in addition to my work. I enjoy research, learning, and sharing knowledge, but I do appropriately budget my time. Two papers are already written and are under review, one is a draft that is mostly complete, and the last is an active draft. I contribute to this when I have free time as my work is my focus.
 
-(DOVPPs)
+### Energy: Electricity Grid Architecture
+X
 
-(Economics paper)
+### Energy: Virtual Power Plants
+X
+
+### Economics
+X
 
 ## Education
 ### Rensselaer Polytechnic Institute (RPI)
@@ -66,10 +131,17 @@ X
 
 ## Miscellaneous
 ### Theta Xi Fraternity (aka “Zoo”)
-Brother, Alpha Chapter. Initiated in 2014.
+Brother, Alpha chapter. Initiated in 2014.
 
 ### Favorite Books
-X
+“Meditations” by Marcus Aurelius
+“Zero to One” by Peter Thiel
+“Daily Stoic” by Ryan Holiday
+“Factfulness” by Hans Rosling
+“Extreme Ownership” by Jocko Willink and Leif Babin
+“Strong Towns” by Chuck Marohn
+“Grit” by Angela Duckworth
+“Peak” by Anders Ericsson
 
 ### Other
 I’ve lived in over a dozen cities across several states. New York, New York has been my favorite.
