@@ -56,7 +56,7 @@ TODO: Explain
 * X
 
 #### Impact
-Optimizing HVAC systems seems pretty boring and esoteric. Are you wondering about the implications and impacts of it? Contact me, they're more than you think.
+Optimizing HVAC systems seems pretty boring and esoteric. Are you wondering about the implications and impacts of it? [Contact me, they're more than you think](#contact).
 
 #### AI
 TODO: AI work 
