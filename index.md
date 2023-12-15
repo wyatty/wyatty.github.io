@@ -135,11 +135,42 @@ X
 ### Rensselaer Polytechnic Institute (RPI)
 B.S. Computer Science 2013-2017
 
+Troy, New York
+
 ### Cedar Falls High School
 Cedar Falls, Iowa 2010–2013
 
 ## Technical Skills
-X
+Machine Learning (AI)
+* Deep learning (various architectures and purposes): 2017-Present
+* Deep reinforcement learning (RL): 2019-Present
+* Natural language processing (NLP): 2018-2020
+* Computer vision (CV): 2021-2022
+
+Machine Learning Technologies
+* TensorFlow (and Keras): 2017-2022
+* PyTorch: 2022-Present
+* RLlib (Ray): 2022-Present
+* Stable-baselines: 2019-Present
+* scikit-learn
+* numpy
+* pandas
+
+Programming languages
+* Python (strong)
+* Swift (prior experience)
+* Go (prior experience)
+* Kotlin (prior experience)
+
+Software Technologies
+* Linux (Ubuntu)
+* Amazon Web Services (AWS)
+* Git
+* MySQL
+* Django
+* Jupyter notebooks
+* MongoDB
+* Airflow
 
 ## Miscellaneous
 ### Theta Xi Fraternity (aka “Zoo”)
