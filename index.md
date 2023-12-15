@@ -36,6 +36,8 @@ TODO: AI work
 TODO: Misc SW work
 * X
 
+![GE logo ](https://github.com/wyatty/wyatty.github.io/raw/main/assets/GE_logo.png "Gradient Energy logo")
+
 ### Yize NRG
 **Founder**, 2017-2019
 
@@ -55,6 +57,8 @@ TODO: AI work
 #### More
 TODO: Misc SW work
 * X
+
+![Yize NRG logo ](https://github.com/wyatty/wyatty.github.io/raw/main/assets/YizeNRG_logo.png "Yize NRG logo")
 
 ### HiroFit
 **Co-Founder**, Early 2022-Late 2022
