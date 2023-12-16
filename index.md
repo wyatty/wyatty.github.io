@@ -42,6 +42,7 @@ Here are some of the technical challenges I have and am tackling in deep RL at G
 * Helping the agent learn human behavior reliably and without overfitting
 * Incorporating human preferences into the agent’s actions
 * Training a multi task RL agent
+* Training a generalist agent from offline RL
 * Monitoring agents in production
 * [Ask me](#contact)
 
@@ -118,7 +119,7 @@ We created an internal financial management and tracking application managing ov
 
 I created a warranty data system that connected warranty claims with specific production segments, departments, and locations in their tractor factories. Within months of release, it was being used in multiple factories located around the world. The software used Excel as the primary UI, streamed analytics to SAS, and integrated with the enterprise SAP database.
 
-## Research Topics
+## Research and Publications
 I try to advance the world by releasing knowledge completely open source in addition to my work. I enjoy research, learning, and sharing knowledge, but I do appropriately budget my time. Two papers are already written and are under review, one is a draft that is mostly complete, and the last is an active draft. I contribute to this when I have free time as my work is my focus.
 
 ### Energy: Electricity Grid Architecture
@@ -129,6 +130,12 @@ X
 
 ### Economics
 X
+
+### Educational Materials
+I write and present, among other things, to teach people about the energy field to try and bring them into the field. I have contributed to publications on behalf of and presented to groups within the energy industry group [DER Task Force](https://www.dertaskforce.com/), and contribute to the educational group [inDERmediate](https://www.indermediate.com/).
+
+Highlighted publications:
+* For an introduction to energy and the grid, check out our [Grid Overview](https://www.indermediate.com/p/indermediate-the-grid-overview)
 
 ## Education
 ### Rensselaer Polytechnic Institute (RPI)
