@@ -137,6 +137,8 @@ We created an internal financial management and tracking application managing ov
 
 I created a warranty data system that connected warranty claims with specific production segments, departments, and locations in their tractor factories. Within months of release, it was being used in multiple factories located around the world. The software used Excel as the primary UI, streamed analytics to SAS, and integrated with the enterprise SAP database.
 
+![pretty picture 2](https://github.com/wyatty/wyatty.github.io/raw/main/assets/green_city_colorful_trains.png "Pretty Picture 2")
+
 ## Research and Publications
 I try to advance the world by releasing knowledge completely open source in addition to my work. I enjoy research, learning, and sharing knowledge, but I do appropriately budget my time. Two papers are already written and are under review, one is a draft that is mostly complete, and the last is an active draft. I contribute to this when I have free time as my work is my focus.
 
