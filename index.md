@@ -6,7 +6,7 @@ I have committed my life to improving the world. This is not a light commitment 
 ![pretty picture 1](https://github.com/wyatty/wyatty.github.io/raw/main/assets/pretty_circuit_board_earth.png "Pretty Picture 1")
 
 ## Introduction
-I have been working in energy since 2016. I have been working in AI (specifically machine learning) since 2017. Working in energy led me to my work in AI as the technology is capable of solving many problems and creating a lot of value in the world. I apply AI to the energy field.
+I began working in software engineering in 2014, I have been working in energy since 2016, and I have been working in AI (specifically machine learning) since 2017. Working in energy led me to my work in AI as the technology is capable of solving many problems and creating a lot of value in the world. I apply AI to the energy field.
 
 I used to work for large corporations including a big tech company, but I made the conscious decision to take a different path in life. I choose to work in what I think is the most impactful field in the world. With that, I choose to work in situations where I can make a large impact building meaningful products. I can do this at small companies (startups) instead of at large corporations with tens of thousands of employees where people are generally limited to making bug fixes, doing iterations of small A/B tests, and making internal tooling. I made this decision in 2016 and I intend to stick with it for the rest of my life.
 
