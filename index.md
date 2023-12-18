@@ -147,6 +147,8 @@ B.S. Computer Science 2013-2017
 
 Troy, New York
 
+![RPI](https://github.com/wyatty/wyatty.github.io/raw/main/assets/rpi_logo.png "RPI Logo")
+
 ### Cedar Falls High School
 Cedar Falls, Iowa 2010–2013
 
