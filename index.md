@@ -37,6 +37,8 @@ We use some of the same technology used in ChatGPT (explained below). According 
 
 When I say we use some of the same technology behind ChatGPT, I am obviously not referring to LLMs. I am referring to [deep reinforcement learning (RL)](https://rail.eecs.berkeley.edu/deeprlcourse/), specifically the use of proximal policy optimization (PPO). I try not to use buzzwords and marketing terms but I do have to sell the product, forgive me for I am aware of my sins. We have ran some experiments with the use of transformers (also like ChatGPT), but we do not use them ([LSTMs](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) are not dead). When I say that we have surpassed the best published results in the field and have the state of the art system, we have searched for many benchmarks and have surpassed the most prominent one by [Cao et al.](https://arxiv.org/abs/2106.00854). We attempted to reproduce their work to get the best comparison, but we could not; we contacted them about this but they refused to cooperate. We have our own customized simulator to model environments (microgrids) and train RL agents in them. We are constantly improving this simulator to increase the capabilities of our agents.
 
+I greatly benefited from my time at [Yize NRG](#yize-nrg). Many of the challenges in ML I faced there I face now here, but with much more experience and knowledge. At the core the product I worked on then and now are very similar.
+
 Here are some of the technical challenges I have and am tackling in deep RL at Gradient (I may write about them in the future):
 * Debugging RL agent training (if you know, you know)
 * Stabilizing agent behavior with a time-dynamic reward function
@@ -67,16 +69,28 @@ Since we worked on V2G VPPs for a while, we put a lot of effort and research int
 Yize NRG ("wise energy") used AI to optimize the operations of HVAC (heating and cooling) systems for buildings for big savings and flexibility.
 
 #### Explained
-We initially targeted large office buildings (e.g. high rises in Manhattan). In target buildings, the HVAC system would consume 50-70% of all energy consumed in the building. We could save 15% all the way up to 50% on HVAC energy usage (there are many variables in this calculation, the high end is for environments with a high degree of flexibility).
+Using AI to optimize the operating cost of large buildings is very promising, as shown by [Google DeepMind’s optimization of Google’s data centers](https://deepmind.google/discover/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-by-40/). We initially targeted large office buildings (e.g. high rises in Manhattan). In target buildings, the HVAC system would consume 50-70% of all energy consumed in the building. We could save 15% all the way up to 50% on HVAC energy usage (there are many variables in this calculation, the high end is for environments with a high degree of flexibility).
 
 #### Impact
 Optimizing HVAC systems seems pretty boring and esoteric. Are you wondering about the implications and impacts of it? [Contact me, they're more than you think](#contact).
 
 #### AI
-X
+At Yize NRG, for the optimization of HVAC systems, we used deep RL. I experimented with a wide variety of RL algorithms, configurations, and neural network architectures. Based on all published results, our AI system was state of the art, meaning it was the best in the world at its task when compared to other systems using standard benchmarks in 2019. Beyond these narrow benchmarks, we expanded the agent’s capabilities in our custom simulator. We forked the highest quality HVAC simulator available and improved on it to allow the agent to learn and handle more diverse situations and optimization objectives.
+
+Here are some of the technical challenges I faced in deep RL at Yize NRG:
+* Debugging RL agent training (it’s an eternal problem in the field)
+* Stabilizing agent behavior with a time-dynamic reward function
+* Enforcing two sets of constraints on agent behavior to ensure safety
+* Ensuring high reliability and stability operating in critical systems
+* Incorporating human action signals into agent behavior predictably and reliably
+* Bridging the sim-to-real gap
+* Monitoring agents in production
+* [Ask me](#contact)
+
+As you can see, there is much overlap with my current work at [Gradient Energy](#gradient-energy). Luckily for me, the field has progressed significantly since 2019 so a lot of these challenges have become much easier.
 
 #### Short Term Load Forecasting
-X
+Before working on the HVAC optimization product, we worked on a product for short term load forecasting (STLF) for electric utilities for more than a year. We partnered with several electric utilities to get their data to train our models on. Our performance exceeded the baselines set by other common STLF methods for the dataset for each utility. We did not find a standard benchmark to compare our methods against, so we cannot make specific claims, just that they surpassed common methods on our datasets. We paused work on this product for several business reasons and shifted focus to the HVAC product.
 
 ![Yize NRG logo ](https://github.com/wyatty/wyatty.github.io/raw/main/assets/YizeNRG_logo.png "Yize NRG logo")
 
