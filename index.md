@@ -64,10 +64,10 @@ Since we worked on V2G VPPs for a while, we put a lot of effort and research int
 ### Yize NRG
 **Founder**, 2017-2019
 
-Yize NRG ("wise energy") used AI to optimize the operations of HVAC (heating and cooling) systems for buildings for big savings and grid flexibility.
+Yize NRG ("wise energy") used AI to optimize the operations of HVAC (heating and cooling) systems for buildings for big savings and flexibility.
 
 #### Explained
-X
+We initially targeted large office buildings (e.g. high rises in Manhattan). In target buildings, the HVAC system would consume 50-70% of all energy consumed in the building. We could save 15% all the way up to 50% on HVAC energy usage (there are many variables in this calculation, the high end is for environments with a high degree of flexibility).
 
 #### Impact
 Optimizing HVAC systems seems pretty boring and esoteric. Are you wondering about the implications and impacts of it? [Contact me, they're more than you think](#contact).
@@ -130,7 +130,7 @@ I try to advance the world by releasing knowledge completely open source in addi
 X
 
 ### Energy: Virtual Power Plants
-X
+Efficiently and reliably operating a vehicle-to-grid (V2G) virtual power plant (VPP) is more challenging than one may think. I have found very little information and publications out there about them despite the fact that they have many unique needs and challenges, the impact they can have, and the fact that their presence will rapidly grow. In this paper, I discuss V2G VPPs, and call them [Dynamic Optimizing Virtual Power Plants (DOVPPs)](#energy-virtual-power-plants) (pronounced “dah-vips”; sometimes, to make an acronym shorter, you have to make it longer). This paper is not a light introduction or glossy white paper meant to create hype. I “get technical” and rigorously define things. Yes, there are equations used in the paper, but I explain them clearly and concisely. I am used to reading rigorous and scientific AI research papers, so I try to bring some of that rigor to this work.
 
 ### Economics
 X
