@@ -3,6 +3,8 @@
 ## Mission
 I have committed my life to improving the world. This is not a light commitment or something I am saying to virtue signal. I mean it. I am doing this through my work in the energy field as that field is the single most important field in the battle against climate change (likely the biggest challenge facing humanity). I have founded multiple companies in energy (including my current company), have written multiple research papers to progress the field, and create educational content to attract more people to the field.
 
+![pretty picture 1](https://github.com/wyatty/wyatty.github.io/raw/main/assets/pretty_circuit_board_earth.png "Pretty Picture 1")
+
 ## Introduction
 I have been working in energy since 2016. I have been working in AI (specifically machine learning) since 2017. Working in energy led me to my work in AI as the technology is capable of solving many problems and creating a lot of value in the world. I apply AI to the energy field.
 
