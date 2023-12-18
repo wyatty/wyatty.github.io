@@ -115,15 +115,15 @@ X
 **Software Engineer**, Left 2020, Albany, New York
 
 #### Auto Parts Classification
-I led a team that built a machine learning (AI) system to automate and accelerate the ingestion of content onto the company’s catalog.
+I led a team that built a machine learning (AI) system to automate and accelerate the ingestion of content onto the company’s catalog, a critical function for the company.
 
-#### Explained
-X
+##### Explained
+IEEE GlobalSpec’s main product can be thought of as a large parts database or catalog, with most of their products being electrical and mechanical parts. A large audience of GlobalSpec were electrical engineers and mechanical engineers around the world. They could come to the website, get parts information, order parts, and other related tasks. With this, adding parts to the catalog for the website directly led to more traffic and more revenue. The critical bottleneck of the process was classifying parts (with just attributes of the parts) to the proper section of the internal taxonomy. This classification was critical as it impacted indexing on the internal search engine, discoverability on the website, and discoverability on Google. Adding parts to the catalog, with this classification bottleneck, was a manual and error-prone process. It involved having trained engineers review spreadsheets of parts with dozens of columns of part attributes. As this is tedious, it had a high error rate. Further, since this process would involve a team of six different engineers, there would be inconsistency in classification across humans. Ingesting parts from a single vendor could take as long as two full business weeks and involve as many as six engineers reviewing them at once. Improving this process to accelerate it, increase accuracy, and increase consistency was a top priority for the company.
 
-#### Impact
-X
+##### Impact
+We exceeded all expectations that business leadership had for this internal product. We achieved superhuman results on both accuracy and consistency of the classifications of our AI model. We reduced processing time for the largest part updates from 300+ man hours to minutes. The speedup depended on how much we wanted to parallelize the process. We could reduce it from minutes to seconds, but spending engineering effort or on-premise compute was not a large business priority.
 
-#### AI
+##### AI
 X
 
 #### More
