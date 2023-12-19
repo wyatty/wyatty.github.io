@@ -171,6 +171,7 @@ I write and present, among other things, to teach people about the energy field 
 
 Highlighted publications:
 * For an introduction to energy and the grid, check out our [Grid Overview](https://www.indermediate.com/p/indermediate-the-grid-overview)
+* [The DER Task Force Bill of Rights](https://www.dertaskforce.com/p/task-force-feature-der-task-force)
 
 ## Education
 ### Rensselaer Polytechnic Institute (RPI)
