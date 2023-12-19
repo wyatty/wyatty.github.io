@@ -204,7 +204,7 @@ Programming languages
 * Python (strong)
 * Swift (prior experience)
 * Go (prior experience)
-* Kotlin (prior experience)
+* Java (prior experience)
 
 Software Technologies
 * Linux (Ubuntu)
