@@ -124,10 +124,21 @@ IEEE GlobalSpec’s main product can be thought of as a large parts database or 
 We exceeded all expectations that business leadership had for this internal product. We achieved superhuman results on both accuracy and consistency of the classifications of our AI model. We reduced processing time for the largest part updates from 300+ man hours to minutes. The speedup depended on how much we wanted to parallelize the process. We could reduce it from minutes to seconds, but spending engineering effort or on-premise compute was not a large business priority.
 
 ##### AI
-X
+We achieved superhuman results with an [F1 score](https://www.v7labs.com/blog/f1-score-guide) of 0.95, and an average accuracy of more than 96%. We used the F1 score internally as our primary metric, but largely communicated the average accuracy externally as that’s more intuitive. Qualitatively, the clients were very pleased with the performance and consistency. I led a team of software engineers; I contributed technically (including to the system architecture, ML model architecture, data pipelines, and model infrastructure), made product decisions, and represented the product to stakeholders and clients.
+
+For more specific aspects of the AI work, here are some of the technical challenges I faced working on the APC system:
+* Experimented with model architecture (including various experiments with embeddings)
+* Modeled data that had an inherent hierarchical structure
+* Managed imbalance classification (experimented with class weighting, oversampling, and data augmentation)
+* Monitoring distribution drift in production (input data was inherently bursty with different distributions in each burst)
+* Optimizing for inference on CPUs (internal cloud did not support GPUs)
+* Experimented with model compression (for faster throughput and smaller footprints)
+* Scaled up and optimized data pipelines to increase data throughput
 
 #### More
-X
+I also built, as part of a small team, a business intelligence system for the company built on the [Elastic stack](https://www.elastic.co/elastic-stack). It achieved very high user satisfaction metrics while providing high throughput and reliability. For it, I built data pipelines ingesting diverse logs, cleaning and extracting information, and then enriching the data from external sources that I built integrations for. I tuned and debugged Elastic’s out-of-the-box anomaly detection ML models. As usual, I did all the necessary software engineering support work with that product (that has been assumed with everything I have in Work Highlights).
+
+Besides those two products, I contributed bug fixes, features, and A/B tests to various production systems using SQL, Java, and Kotlin. Interestingly, the company used the ancient framework ColdFusion.
 
 ### Cisco Systems
 **Software Engineer Intern**, 2015, San Jose, California
