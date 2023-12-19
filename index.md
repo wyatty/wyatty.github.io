@@ -241,3 +241,5 @@ Email: wyatt at gradient dot energy
 [GitHub](https://github.com/wyatty)
 
 [LinkedIn](http://www.linkedin.com/in/wyattmakedonski)
+
+![Pretty Green City](https://github.com/wyatty/wyatty.github.io/raw/main/assets/green_city.png "pretty green city")
