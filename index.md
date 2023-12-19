@@ -156,7 +156,9 @@ I created a warranty data system that connected warranty claims with specific pr
 I try to advance the world by releasing knowledge completely open source in addition to my work. I enjoy research, learning, and sharing knowledge, but I do appropriately budget my time. Two papers are already written and are under review, one is a draft that is mostly complete, and the last is an active draft. I contribute to this when I have free time as my work is my focus.
 
 ### Energy: Electricity Grid Architecture
-X
+How do we build the grid of the future, one that is 100% carbon free and distributed (meaning that it can support many EVs, batteries, and PV)? Right now, this is an open problem. I propose a system that aims to solve this problem and provides a solution that works in the near term and scales to the distant future. The system is fairly simple yet robust.
+
+Both of these papers (I have split the system into two papers) are complete and under review. To be upfront, I am considering publishing a different paper I am drafting before I publish these, so that is part of the reason I am delaying these.
 
 ### Energy: Virtual Power Plants
 Efficiently and reliably operating a vehicle-to-grid (V2G) virtual power plant (VPP) is more challenging than one may think. I have found very little information and publications out there about them despite the fact that they have many unique needs and challenges, the impact they can have, and the fact that their presence will rapidly grow. In this paper, I discuss V2G VPPs, and call them [Dynamic Optimizing Virtual Power Plants (DOVPPs)](#energy-virtual-power-plants) (pronounced “dah-vips”; sometimes, to make an acronym shorter, you have to make it longer). This paper is not a light introduction or glossy white paper meant to create hype. I “get technical” and rigorously define things. Yes, there are equations used in the paper, but I explain them clearly and concisely. I am used to reading rigorous and scientific AI research papers, so I try to bring some of that rigor to this work.
