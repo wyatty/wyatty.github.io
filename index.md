@@ -164,7 +164,7 @@ Both of these papers (I have split the system into two papers) are complete and 
 Efficiently and reliably operating a vehicle-to-grid (V2G) virtual power plant (VPP) is more challenging than one may think. I have found very little information and publications out there about them despite the fact that they have many unique needs and challenges, the impact they can have, and the fact that their presence will rapidly grow. In this paper, I discuss V2G VPPs, and call them [Dynamic Optimizing Virtual Power Plants (DOVPPs)](#energy-virtual-power-plants) (pronounced “dah-vips”; sometimes, to make an acronym shorter, you have to make it longer). This paper is not a light introduction or glossy white paper meant to create hype. I “get technical” and rigorously define things. Yes, there are equations used in the paper, but I explain them clearly and concisely. I am used to reading rigorous and scientific AI research papers, so I try to bring some of that rigor to this work.
 
 ### Economics
-X
+While creating my Grid Architecture papers, I created an interesting concept that has broader implications in cooperative bargaining. I am investigating them.
 
 ### Educational Materials
 I write and present, among other things, to teach people about the energy field to try and bring them into the field. I have contributed to publications on behalf of and presented to groups within the energy industry group [DER Task Force](https://www.dertaskforce.com/), and contribute to the educational group [inDERmediate](https://www.indermediate.com/).
