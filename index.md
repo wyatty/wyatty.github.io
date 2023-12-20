@@ -134,6 +134,8 @@ I also built, as part of a small team, a business intelligence system for the co
 
 Besides those two products, I contributed bug fixes, features, and A/B tests to various production systems using SQL, Java, and Kotlin. Interestingly, the company used the ancient framework ColdFusion.
 
+![IEEE GlobalSpec Logo](https://github.com/wyatty/wyatty.github.io/raw/main/assets/ieee_globalspec_logo.jpg "IEEE GlobalSpec logo")
+
 ### HiroFit
 **Co-Founder**, Early 2022-Late 2022
 
