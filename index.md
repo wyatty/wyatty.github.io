@@ -140,7 +140,7 @@ Besides those two products, I contributed bug fixes, features, and A/B tests to 
 HiroFit turned your phone into your own personal fitness trainer using AI.
 
 #### Explained
-X
+Personal fitness trainers are very expensive and can cost more than $100 an hour. As much as 90% of the time of your time in session with a personal trainer is not spent on instruction, it is merely monitoring form and performing rote tasks like counting reps. Our goal was not to replace a personal trainer or athletic coach, but to make them more effective and productive. **On a broader note, modern AI (as of 2023), for most tasks, is not in a state to automate and replace humans, but it is better suited to augment humans and make them more productive.** Like challenges in robotics, there is a “long tail” (referring to the tail end of a distribution) of tasks and corner cases that a system must be able to do before it can replace a human. Further, a phone is limited to its point of view whereas a personal trainer can freely roam and gain multiple points of view of the same user. There is the obvious physical aspect of touch and aid that personal trainers provide. We did not aim to replace a trainer, but to require less of their time. We did not aim to replace a trainer, but to require less of their time. We could reduce much of the rote work the trainers did and have them focus on specific learning moments. For our users, this meant spending less time with personal trainers and athletic coaches and therefore less money. For users that elected to still see trainers and coaches, we provided those teachers summaries and statistics about the user’s workouts so that they could tailor their instruction to the user’s specific needs.
 
 #### Impact
 X
