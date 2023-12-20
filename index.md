@@ -105,23 +105,6 @@ Before working on the HVAC optimization product, we worked on a product for shor
 
 ![Yize NRG logo ](https://github.com/wyatty/wyatty.github.io/raw/main/assets/YizeNRG_logo.png "Yize NRG logo")
 
-### HiroFit
-**Co-Founder**, Early 2022-Late 2022
-
-HiroFit turned your phone into your own personal fitness trainer using AI.
-
-#### Explained
-X
-
-#### Impact
-X
-
-#### AI
-X
-
-#### More
-X
-
 ### IEEE GlobalSpec
 **Software Engineer**, Left 2020, Albany, New York
 
@@ -150,6 +133,23 @@ For more specific aspects of the AI work, here are some of the technical challen
 I also built, as part of a small team, a business intelligence system for the company built on the [Elastic stack](https://www.elastic.co/elastic-stack). It achieved very high user satisfaction metrics while providing high throughput and reliability. For it, I built data pipelines ingesting diverse logs, cleaning and extracting information, and then enriching the data from external sources that I built integrations for. I tuned and debugged Elastic’s out-of-the-box anomaly detection ML models. As usual, I did all the necessary software engineering support work with that product (that has been assumed with everything I have in Work Highlights).
 
 Besides those two products, I contributed bug fixes, features, and A/B tests to various production systems using SQL, Java, and Kotlin. Interestingly, the company used the ancient framework ColdFusion.
+
+### HiroFit
+**Co-Founder**, Early 2022-Late 2022
+
+HiroFit turned your phone into your own personal fitness trainer using AI.
+
+#### Explained
+X
+
+#### Impact
+X
+
+#### AI
+X
+
+#### More
+X
 
 ### Cisco Systems
 **Software Engineer Intern**, 2015, San Jose, California
