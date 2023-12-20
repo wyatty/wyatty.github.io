@@ -168,6 +168,8 @@ X
 #### Shutting Down
 In the end, my co-founder and I decided to shut down HiroFit and lay off all staff. We did this and immediately founded Gradient Energy (my current company). In the end, we weren’t very passionate about fitness and this company didn’t feel very positively impactful for society. Gradient Energy is poised to have a much larger positive impact, and it is my field of specialty. We were both much more excited and passionate about Gradient, and we still are.
 
+![HiroFit Model Example](https://github.com/wyatty/wyatty.github.io/raw/main/assets/hirofit_model.jpg "HiroFit model example")
+
 ### Cisco Systems
 **Software Engineer Intern**, 2015, San Jose, California
 
