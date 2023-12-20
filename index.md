@@ -151,7 +151,14 @@ On a broader note, modern AI (as of 2023), for most tasks, is not in a state to 
 X
 
 #### AI
-X
+For more specific aspects of the AI work, here are some of the technical challenges I faced while working at HiroFit:
+* Experimented with transferring pretrained vision models
+* Experimented with different learning approaches: having one model learn everything vs a two-stage system
+* Experimented with model explainability (we needed to tell users what they did wrong)
+* Tuning the neural network size and architecture to enable high throughput (frames per second)
+* Tuning neural network size to fit in the memory of a mobile GPU
+* *NOTE*: No, we did not use a [ViT](https://arxiv.org/abs/2010.11929)-descended model, CNNs are still quite useful
+* Curious about some of the details and how I got strong explainability? [Ask me](#contact)
 
 #### More
 X
