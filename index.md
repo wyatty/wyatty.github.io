@@ -108,6 +108,8 @@ Before working on the HVAC optimization product, we worked on a product for shor
 ### HiroFit
 **Co-Founder**, Early 2022-Late 2022
 
+HiroFit turned your phone into your own personal fitness trainer using AI.
+
 #### Explained
 X
 
