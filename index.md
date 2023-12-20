@@ -3,6 +3,15 @@
 ## Mission
 I have committed my life to improving the world. This is not a light commitment or something I am saying to virtue signal. I mean it. I am doing this through my work in the energy field as that field is the single most important field in the battle against climate change (likely the biggest challenge facing humanity). I have founded multiple companies in energy (including my current company), have written multiple research papers to progress the field, and create educational content to attract more people to the field.
 
+## Table of Contents
+* [Introduction](#introduction)
+* [Work Highlights](#work-highlights)
+* [Research and Publications](#research-and-publications)
+* [Education](#education)
+* [Technical Skills](#technical-skills)
+* [Miscellaneous](#miscellaneous)
+* [Contact](#contact)
+
 ![pretty picture 1](https://github.com/wyatty/wyatty.github.io/raw/main/assets/pretty_circuit_board_earth.png "Pretty Picture 1")
 
 ## Introduction
@@ -234,7 +243,7 @@ Brother, Alpha chapter. Initiated in 2014.
 I’ve lived in over a dozen cities across several states. New York, New York has been my favorite.
 
 ## Contact
-Email: wyatt at gradient dot energy
+Email: wyatt *at* gradient *dot* energy
 
 [Twitter](https://twitter.com/wyatt_yy)
 
