@@ -142,15 +142,15 @@ Besides those two products, I contributed bug fixes, features, and A/B tests to 
 HiroFit turned your phone into your own personal fitness trainer using AI.
 
 #### Explained
-Personal fitness trainers are very expensive and can cost more than $100 an hour. As much as 90% of the time of your time in session with a personal trainer is not spent on instruction, it is merely monitoring form and performing rote tasks like counting reps. Our goal was not to replace a personal trainer or athletic coach, but to make them more effective and productive. On a broader note, modern AI (as of 2023), for most tasks, is not in a state to automate and replace humans, but it is better suited to augment humans and make them more productive. Like challenges in robotics, there is a “long tail” (referring to the tail end of a distribution) of tasks and corner cases that a system must be able to do before it can replace a human. Further, a phone is limited to its point of view whereas a personal trainer can freely roam and gain multiple points of view of the same user. There is the obvious physical aspect of touch and aid that personal trainers provide. We did not aim to replace a trainer, but to require less of their time. We did not aim to replace a trainer, but to require less of their time. We could reduce much of the rote work the trainers did and have them focus on specific learning moments. For our users, this meant spending less time with personal trainers and athletic coaches and therefore less money. For users that elected to still see trainers and coaches, we provided those teachers summaries and statistics about the user’s workouts so that they could tailor their instruction to the user’s specific needs.
+Personal fitness trainers are very expensive and can cost more than $100 an hour. As much as 90% of the time of your time in session with a personal trainer is not spent on instruction, it is merely monitoring form and performing rote tasks like counting reps. Our product was a mobile app that utilized the user’s phone camera to watch the user while they work out. This computer vision system (ML) would count reps of the exercise, automatically create an exercise journal or log, and, most importantly, coach the user as they exercise, including correcting form and pacing. In its log, it would track exercises, sets, reps, weights, and would track and analyze the user’s exercise correctness over time.
+
+#### Impact
+Our goal was to help the user with their fitness goals while saving them money on expensive personal fitness trainers. We knew that we would not completely replace a personal trainer or athletic coach, but make those sessions with trainers more effective and productive. On a broader note, modern AI (as of 2023), for most tasks, is not in a state to automate and replace humans, but it is better suited to augment humans and make them more productive. Like challenges in robotics, there is a “long tail” (referring to the tail end of a distribution) of tasks and corner cases that a system must be able to do before it can replace a human. Further, a phone is limited to its point of view whereas a personal trainer can freely roam and gain multiple points of view of the same user. There is the obvious physical aspect of touch and aid that personal trainers provide. We did not aim to replace a trainer, but to require less of their time. We could reduce much of the rote work the trainers did and have them focus on specific learning moments. For our users, this meant spending less time with personal trainers and athletic coaches and therefore less money. For users that elected to still see trainers and coaches, we provided those teachers summaries and statistics about the user’s workouts so that they could tailor their instruction to the user’s specific needs.
 
 My opinion:
 ```
 On a broader note, modern AI (as of 2023), for most tasks, is not in a state to automate and replace humans, but it is better suited to augment humans and make them more productive.
 ```
-
-#### Impact
-X
 
 #### AI
 For more specific aspects of the AI work, here are some of the technical challenges I faced while working at HiroFit:
@@ -162,11 +162,8 @@ For more specific aspects of the AI work, here are some of the technical challen
 * *NOTE*: No, we did not use a [ViT](https://arxiv.org/abs/2010.11929)-descended model, CNNs are still quite useful
 * Curious about some of the details and how I got strong explainability? [Ask me](#contact)
 
-#### More
-X
-
 #### Shutting Down
-In the end, my co-founder and I decided to shut down HiroFit and lay off all staff. We did this and immediately founded Gradient Energy (my current company). In the end, we weren’t very passionate about fitness and this company didn’t feel very positively impactful for society. Gradient Energy is poised to have a much larger positive impact, and it is my field of specialty. We were both much more excited and passionate about Gradient, and we still are.
+In the end, my co-founder and I decided to shut down HiroFit and lay off all staff. We did this and immediately founded Gradient Energy (my current company). In the end, we weren’t very passionate about fitness and this company didn’t feel very positively impactful for society. Gradient Energy is poised to have a much larger positive impact, and it is my field of specialty. We were both much more excited and passionate about Gradient and still are.
 
 ![HiroFit Model Example](https://github.com/wyatty/wyatty.github.io/raw/main/assets/hirofit_model.jpg "HiroFit model example")
 
