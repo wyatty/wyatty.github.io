@@ -260,11 +260,13 @@ Brother, Alpha chapter. Initiated in 2014.
 ### Favorite Music
 Here are some of my favorite genres and bands. I sing and do vocals in my free time, and I enjoy covering a lot of them.
 
+![Immortal by Lorna Shore](https://github.com/wyatty/wyatty.github.io/raw/main/assets/Lorna_Shore_Immortal.png "Immortal")
+
 * Deathcore
   * Suicide Silence (RIP Mitch)
   * Slaughter to Prevail
   * Immortal Disfigurement
-  * Lorna Shore (Immortal is my favorite deathcore album; their new singer really holds them back)
+  * Lorna Shore (Immortal is one my favorite albums; their new singer really holds them back)
   * Shadow of Intent
 * Metalcore
   * Silent Planet
