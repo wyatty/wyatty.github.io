@@ -257,6 +257,71 @@ Brother, Alpha chapter. Initiated in 2014.
 * “Grit” by Angela Duckworth
 * “Peak” by Anders Ericsson
 
+### Favorite Music
+Here are some of my favorite genres and bands. I sing and do vocals in my free time, and I enjoy covering a lot of them.
+
+* Deathcore
+  * Suicide Silence (RIP Mitch)
+  * Slaughter to Prevail
+  * Immortal Disfigurement
+  * Lorna Shore (Immortal is my favorite deathcore album; their new singer really holds them back)
+  * Shadow of Intent
+* Metalcore
+  * Silent Planet
+  * Motionless in White
+  * Bring Me the Horizon
+  * As I Lay Dying
+  * The Devil Wears Prada
+  * Falling In Reverse
+  * Asking Alexandria (they’re old stuff)
+  * Architects
+  * A Day to Remember
+  * Bad Omens
+  * Ice Nine Kills
+  * Sleeping with Sirens
+  * Electric Callboy
+* Metal
+  * Slipknot
+  * Linkin Park
+  * Avenged Sevenfold
+  * Rammstein
+  * Slayer
+  * Korn
+  * System of a Down
+  * Rage Against the Machine
+  * Marilyn Manson
+* Rap
+  * Eminem
+  * Tech N9ne
+  * Biggie
+  * Big L
+  * Nas
+  * Mobb Deep
+  * Wu-Tang Clan (AN2FW)
+  * Eric B & Rakim
+  * A Tribe Called Quest
+  * Dr. Dre
+  * 50 Cent
+* Hardcore & Punk
+  * Knocked Loose
+  * Hatebreed
+  * Fever 333
+  * Madball
+  * Dead Kennedys
+  * Black Flag
+* Emo Rap
+  * Lil Peep
+  * Ghostmane
+* Rock
+  * Blink-182
+  * My Chemical Romance
+  * Green Day
+  * Neck Deep
+* Electronic
+  * Mick Gordon
+  * Cascada
+  * Kayzo
+
 ### Other
 I’ve lived in over a dozen cities across several states. New York, New York has been my favorite.
 
