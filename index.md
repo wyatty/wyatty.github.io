@@ -275,7 +275,7 @@ Here are some of my favorite genres and bands. I sing and do vocals in my free t
   * As I Lay Dying
   * The Devil Wears Prada
   * Falling In Reverse
-  * Asking Alexandria (they’re old stuff)
+  * Asking Alexandria (their old stuff)
   * Architects
   * A Day to Remember
   * Bad Omens
