@@ -164,15 +164,17 @@ For more specific aspects of the AI work, here are some of the technical challen
 * *NOTE*: No, we did not use a [ViT](https://arxiv.org/abs/2010.11929)-descended model, CNNs are still quite useful
 * Curious about some of the details and how I got strong explainability? [Ask me](#contact)
 
-#### Shutting Down
-In the end, my co-founder and I decided to shut down HiroFit and lay off all staff. We did this and immediately founded Gradient Energy (my current company). In the end, we weren’t very passionate about fitness and this company didn’t feel very positively impactful for society. Gradient Energy is poised to have a much larger positive impact, and it is in my field of specialty. We were both much more excited and passionate about Gradient and still are.
-
 ![HiroFit Model Example](https://github.com/wyatty/wyatty.github.io/raw/main/assets/hirofit_model.jpg "HiroFit model example")
 
 ### Cisco Systems
 **Software Engineer Intern**, 2015, San Jose, California
 
 We created an internal financial management and tracking application managing over $160M and 1,300 people annually. It was a web app using the MEAN stack (MySQL, Express, Angular.js, Node.js).
+
+### Johnson & Johnson
+**Software Engineer Co-op (DevOps)**, 2015, New Jersey
+
+Worked on AWS cloud management/policing software for internal clients; Wrote APIs for streamlined control.
 
 ### John Deere
 **Software Engineer Intern**, Summer 2014 & Summer 2013, Iowa
