@@ -30,7 +30,7 @@ I am not known for my lack of weakness, I have many weaknesses. I have a narrow 
 ## Work Highlights
 
 ### [Gradient Energy](https://www.gradient.energy/)
-**Co-Founder**, Late 2022-Present
+**Co-Founder & Lead Data Scientist**, Late 2022-Present
 
 Gradient Energy optimizes electric vehicle charging using AI.
 
@@ -58,6 +58,8 @@ Here are some of the technical challenges I have and am tackling in deep RL at G
 * Incorporating human preferences into the agent’s actions
 * Training a multi task RL agent
 * Training a generalist agent from offline RL
+* Curriculum learning
+* Meta reinforcement learning
 * Monitoring agents in production
 * [Ask me](#contact)
 
@@ -75,7 +77,7 @@ Since we worked on V2G VPPs for a while, we put a lot of effort and research int
 ![GE logo ](https://github.com/wyatty/wyatty.github.io/raw/main/assets/GE_logo.png "Gradient Energy logo")
 
 ### Yize NRG
-**Founder**, 2017-2019
+**Data Scientist**, 2017-2019
 
 Yize NRG ("wise energy") used AI to optimize the operations of HVAC (heating and cooling) systems for buildings for big savings and flexibility.
 
@@ -137,7 +139,7 @@ Besides those two products, I contributed bug fixes, features, and A/B tests to 
 ![IEEE GlobalSpec Logo](https://github.com/wyatty/wyatty.github.io/raw/main/assets/ieee_globalspec_logo.jpg "IEEE GlobalSpec logo")
 
 ### HiroFit
-**Co-Founder**, Early 2022-Late 2022
+**Lead Data Scientist**, Early 2021-Late 2022
 
 HiroFit turned your phone into your own personal fitness trainer using AI.
 
@@ -321,6 +323,7 @@ Here are some of my favorite genres and bands. I sing and do vocals in my free t
   * Neck Deep
 * Electronic
   * Mick Gordon
+  * Geoffrey Day
   * Cascada
   * Kayzo
 
