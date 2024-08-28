@@ -107,8 +107,36 @@ Before working on the HVAC optimization product, we worked on a product for shor
 
 ![Yize NRG logo ](https://github.com/wyatty/wyatty.github.io/raw/main/assets/YizeNRG_logo.png "Yize NRG logo")
 
+### HiroFit
+**Lead Data Scientist**, Early 2021-Late 2022
+
+HiroFit turned your phone into your own personal fitness trainer using AI.
+
+#### Explained
+Personal fitness trainers are very expensive and can cost more than $100 an hour. As much as 90% of the time of your time in session with a personal trainer is not spent on instruction, it is merely monitoring form and performing rote tasks like counting reps. Our product was a mobile app that utilized the user’s phone camera to watch the user while they work out. This computer vision system (ML) would count reps of the exercise, automatically create an exercise journal or log, and, most importantly, coach the user as they exercise, including correcting form and pacing. In its log, it would track exercises, sets, reps, weights, and would track and analyze the user’s exercise correctness over time.
+
+#### Impact
+Our goal was to help the user with their fitness goals while saving them money on expensive personal fitness trainers. We knew that we would not completely replace a personal trainer or athletic coach, but make those sessions with trainers more effective and productive. On a broader note, modern AI (as of 2023), for most tasks, is not in a state to automate and replace humans, but it is better suited to augment humans and make them more productive. Like challenges in robotics, there is a “long tail” (referring to the tail end of a distribution) of tasks and corner cases that a system must be able to do before it can replace a human. Further, a phone is limited to its point of view whereas a personal trainer can freely roam and gain multiple points of view of the same user. There is the obvious physical aspect of touch and aid that personal trainers provide. We did not aim to replace a trainer, but to require less of their time. We could reduce much of the rote work the trainers did and have them focus on specific learning moments. For our users, this meant spending less time with personal trainers and athletic coaches and therefore less money. For users that elected to still see trainers and coaches, we provided those teachers summaries and statistics about the user’s workouts so that they could tailor their instruction to the user’s specific needs.
+
+My opinion:
+```
+On a broader note, modern AI (as of 2024), for most tasks, is not in a state to automate and replace humans, but it is better suited to augment humans and make them more productive.
+```
+
+#### AI
+For more specific aspects of the AI work, here are some of the technical challenges I faced while working at HiroFit:
+* Experimented with transferring pretrained vision models
+* Experimented with different learning approaches: having one model learn everything vs a two-stage system
+* Experimented with model explainability (we needed to tell users what they did wrong)
+* Tuning the neural network size and architecture to enable high throughput (frames per second)
+* Tuning neural network size to fit in the memory of a mobile GPU
+* *NOTE*: No, we did not use a [ViT](https://arxiv.org/abs/2010.11929)-descended model, CNNs are still quite useful
+* Curious about some of the details and how I got strong explainability? [Ask me](#contact)
+
+![HiroFit Model Example](https://github.com/wyatty/wyatty.github.io/raw/main/assets/hirofit_model.jpg "HiroFit model example")
+
 ### IEEE GlobalSpec
-**Software Engineer**, Left 2020, Albany, New York
+**Software Engineer in Machine Learning**, Left 2020, Albany, New York
 
 #### Auto Parts Classification
 I led a team that built a machine learning (AI) system to automate and accelerate the ingestion of content into the company’s catalog, a critical function for the company.
@@ -137,34 +165,6 @@ I also built, as part of a small team, a business intelligence system for the co
 Besides those two products, I contributed bug fixes, features, and A/B tests to various production systems using SQL, Java, and Kotlin. Interestingly, the company used the ancient framework ColdFusion.
 
 ![IEEE GlobalSpec Logo](https://github.com/wyatty/wyatty.github.io/raw/main/assets/ieee_globalspec_logo.jpg "IEEE GlobalSpec logo")
-
-### HiroFit
-**Lead Data Scientist**, Early 2021-Late 2022
-
-HiroFit turned your phone into your own personal fitness trainer using AI.
-
-#### Explained
-Personal fitness trainers are very expensive and can cost more than $100 an hour. As much as 90% of the time of your time in session with a personal trainer is not spent on instruction, it is merely monitoring form and performing rote tasks like counting reps. Our product was a mobile app that utilized the user’s phone camera to watch the user while they work out. This computer vision system (ML) would count reps of the exercise, automatically create an exercise journal or log, and, most importantly, coach the user as they exercise, including correcting form and pacing. In its log, it would track exercises, sets, reps, weights, and would track and analyze the user’s exercise correctness over time.
-
-#### Impact
-Our goal was to help the user with their fitness goals while saving them money on expensive personal fitness trainers. We knew that we would not completely replace a personal trainer or athletic coach, but make those sessions with trainers more effective and productive. On a broader note, modern AI (as of 2023), for most tasks, is not in a state to automate and replace humans, but it is better suited to augment humans and make them more productive. Like challenges in robotics, there is a “long tail” (referring to the tail end of a distribution) of tasks and corner cases that a system must be able to do before it can replace a human. Further, a phone is limited to its point of view whereas a personal trainer can freely roam and gain multiple points of view of the same user. There is the obvious physical aspect of touch and aid that personal trainers provide. We did not aim to replace a trainer, but to require less of their time. We could reduce much of the rote work the trainers did and have them focus on specific learning moments. For our users, this meant spending less time with personal trainers and athletic coaches and therefore less money. For users that elected to still see trainers and coaches, we provided those teachers summaries and statistics about the user’s workouts so that they could tailor their instruction to the user’s specific needs.
-
-My opinion:
-```
-On a broader note, modern AI (as of 2023), for most tasks, is not in a state to automate and replace humans, but it is better suited to augment humans and make them more productive.
-```
-
-#### AI
-For more specific aspects of the AI work, here are some of the technical challenges I faced while working at HiroFit:
-* Experimented with transferring pretrained vision models
-* Experimented with different learning approaches: having one model learn everything vs a two-stage system
-* Experimented with model explainability (we needed to tell users what they did wrong)
-* Tuning the neural network size and architecture to enable high throughput (frames per second)
-* Tuning neural network size to fit in the memory of a mobile GPU
-* *NOTE*: No, we did not use a [ViT](https://arxiv.org/abs/2010.11929)-descended model, CNNs are still quite useful
-* Curious about some of the details and how I got strong explainability? [Ask me](#contact)
-
-![HiroFit Model Example](https://github.com/wyatty/wyatty.github.io/raw/main/assets/hirofit_model.jpg "HiroFit model example")
 
 ### Cisco Systems
 **Software Engineer Intern**, 2015, San Jose, California
