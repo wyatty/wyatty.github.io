@@ -254,8 +254,9 @@ Cedar Falls, Iowa 2010–2013
 Machine Learning (AI)
 * Deep learning (various architectures and purposes): 2017-Present
 * Deep reinforcement learning (RL): 2019-Present
-* Natural language processing (NLP): 2018-2020
+* Natural language processing (NLP): 2018-Present
 * Computer vision (CV): 2021-2022
+* Large language models (LLMs): 2023-Present
 
 Machine Learning Technologies
 * TensorFlow (and Keras): 2017-2022
@@ -271,10 +272,12 @@ Programming languages
 * Swift (prior experience)
 * Go (prior experience)
 * Java (prior experience)
+* C# (prior experience)
 
 Software Technologies
 * Linux (Ubuntu)
 * Amazon Web Services (AWS)
+* Google Cloud (GCP)
 * Git
 * MySQL
 * Django
@@ -284,7 +287,7 @@ Software Technologies
 
 ## Miscellaneous
 ### Theta Xi Fraternity (aka “Zoo”)
-Brother, Alpha chapter. Initiated in 2014.
+Brother, Alpha chapter. Initiated 2014.
 
 ### Favorite Books
 * “Meditations” by Marcus Aurelius
@@ -356,10 +359,11 @@ Here are some of my favorite genres and bands. I sing and do vocals in my free t
 * Rock
   * Blink-182
   * My Chemical Romance
+  * The Killers
   * Green Day
   * Neck Deep
 * Electronic
-  * Mick Gordon
+  * Mick Gordon (the Doom music)
   * Geoffrey Day
   * Cascada
   * Kayzo
