@@ -30,7 +30,7 @@ I am not known for my lack of weakness, I have many weaknesses. I have a narrow 
 ## Work Highlights
 
 ### [Gradient Energy](https://www.gradient.energy/)
-**Co-Founder & Lead Data Scientist**, Late 2022-Present
+**Co-Founder & CEO**, Late 2022-Present
 
 Gradient Energy optimizes electric vehicle charging using AI.
 
@@ -77,7 +77,7 @@ Since we worked on V2G VPPs for a while, we put a lot of effort and research int
 ![GE logo ](https://github.com/wyatty/wyatty.github.io/raw/main/assets/GE_logo.png "Gradient Energy logo")
 
 ### Yize NRG
-**Data Scientist**, 2017-2019
+**Founder & Data Scientist**, 2017-2019
 
 Yize NRG ("wise energy") used AI to optimize the operations of HVAC (heating and cooling) systems for buildings for big savings and flexibility.
 
