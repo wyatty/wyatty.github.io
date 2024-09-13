@@ -3,6 +3,7 @@ layout: default
 title: "Wyatt Makedonski"
 ---
 
+
 # Wyatt Makedonski
 
 ## Mission
