@@ -236,7 +236,7 @@ How do we build the grid of the future, one that is 100% carbon free and distrib
 * On electricity grid architecture
 
 ### Economics
-While creating my Grid Architecture papers, I created an interesting concept that has broader implications in cooperative bargaining. I am investigating the concept further.
+While creating my Grid Architecture papers, I created an interesting concept that has broader implications in cooperative bargaining. Extending that, I have stumbled upon several concepts that may be more broadly applicable in the field. I am investigating the concepts further.
 
 ### Educational Materials
 I write and present, among other things, to teach people about the energy field to try and bring them into the field. I have contributed to publications on behalf of and presented to groups within the energy industry group [DER Task Force](https://www.dertaskforce.com/), and contribute to the educational group [inDERmediate](https://www.indermediate.com/).
