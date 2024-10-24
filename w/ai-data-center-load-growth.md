@@ -3,6 +3,13 @@ layout: default
 title: "AI & Data Center Load Growth: A Unique Perspective"
 ---
 
+Menu
+* [Main](https://makedon.ski/)
+* [Research](https://makedon.ski/research)
+* [Writings](https://makedon.ski/writings)
+
+---
+
 # AI & Data Center Load Growth: A Unique Perspective
 [Wyatt Makedonski](https://makedon.ski/)
 
