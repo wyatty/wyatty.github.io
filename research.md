@@ -10,7 +10,7 @@ Menu
 
 ---
 
-# Research and Publications
+# Research and Publications by Wyatt Makedonski
 I try to advance the world by releasing knowledge completely open source in addition to my work. I enjoy research, learning, and sharing knowledge.
 
 ## “Dynamic Optimizing Virtual Power Plants”

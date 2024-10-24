@@ -10,7 +10,7 @@ Menu
 
 ---
 
-# Writings
+# Writings by Wyatt Makedonski
 ## [AI & Data Center Load Growth: A Unique Perspective](https://makedon.ski/w/ai-data-center-load-growth)
 *Published October 24, 2024*
 
