@@ -190,7 +190,7 @@ I created a warranty data system that connected warranty claims with specific pr
 ![pretty picture 2](https://github.com/wyatty/wyatty.github.io/raw/main/assets/green_city_colorful_trains.png "Pretty Picture 2")
 
 ## Research and Publications
-I try to advance the world by releasing knowledge completely open source in addition to my work. I enjoy research, learning, and sharing knowledge, but I do appropriately budget my time.
+I try to advance the world by releasing knowledge completely open source in addition to my work. I enjoy research, learning, and sharing knowledge.
 
 ### “Dynamic Optimizing Virtual Power Plants”
 *Makedonski, et al. (first author)*
