@@ -5,6 +5,8 @@ title: "Research by Wyatt Makedonski"
 
 Menu
 * [Main](https://makedon.ski/)
+* [Research](https://makedon.ski/research)
+* [Writings](https://makedon.ski/writings)
 
 ---
 
