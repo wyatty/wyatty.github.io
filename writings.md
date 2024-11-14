@@ -25,4 +25,4 @@ I write and present, among other things, to teach people about the energy field 
 A concise introduction to energy and the grid.
 
 ## [The DER Task Force Bill of Rights](https://www.dertaskforce.com/p/task-force-feature-der-task-force)
-*Published: 2021*
+*Published: July 2022*
