@@ -37,3 +37,5 @@ A concise introduction to energy and the grid.
 
 ## [The DER Task Force Bill of Rights](https://www.dertaskforce.com/p/task-force-feature-der-task-force)
 *Published: July 2022*
+
+![VPP & AI picture 0](https://github.com/wyatty/wyatty.github.io/raw/main/assets/vpp_ai1.jpg "Cool Picture 0")
