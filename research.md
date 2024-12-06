@@ -59,3 +59,5 @@ How do we build the grid of the future, one that is 100% carbon free and distrib
 
 # Economics
 While creating my Grid Architecture papers, I created an interesting concept that has broader implications in cooperative bargaining. Extending that, I have stumbled upon several concepts that may be more broadly applicable in the field. I am investigating the concepts further.
+
+![VPP & AI picture 0](https://github.com/wyatty/wyatty.github.io/raw/main/assets/vpp_ai0.jpg "Cool Picture 0")
