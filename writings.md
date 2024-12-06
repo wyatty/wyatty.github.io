@@ -17,6 +17,16 @@ Menu
 
 There is a lot of talk today about AI and data center load growth, but there is something that everybody is missing. Data center loads are not an inevitable, uncontrollable black box. Their loads are actually flexible and responsive (and applying AI is key to this). In this article, I lift the curtain on data center loads and discuss trends affecting their growth estimates.
 
+## [3 Questions About Virtual Power Plants](https://makedon.ski/w/3-questions-about-vpps)
+*Published December 6, 2024*
+
+In the DER Task Force, the following three questions were posed:
+1. How far can VPPs get with status quo technology, regulation, policy?
+2. What are the most promising avenues for VPP capacity growth?
+3. What will it take for VPP capacity to serve 20% of peak demand and deliver distribution grid benefits on top of bulk grid benefits?
+
+This article contains some of quick thoughts about the questions about VPPs.
+
 ## Educational Materials
 I write and present, among other things, to teach people about the energy field to try and bring them into the field. I have contributed to publications on behalf of and presented to groups within the energy industry group [DER Task Force](https://www.dertaskforce.com/), and contribute to the educational group [inDERmediate](https://www.indermediate.com/).
 
