@@ -45,6 +45,8 @@ I am not known for my lack of weakness, I have many weaknesses. I have a narrow 
 
 [Work Highlights](https://makedon.ski/experience)
 
+---
+
 ## Research and Publications
 I try to advance the world by releasing knowledge completely open source in addition to my work. I enjoy research, learning, and sharing knowledge.
 
@@ -62,6 +64,8 @@ Highlighted publications:
 * For an introduction to energy and the grid, check out our [Grid Overview](https://www.indermediate.com/p/indermediate-the-grid-overview)
 * [The DER Task Force Bill of Rights](https://www.dertaskforce.com/p/task-force-feature-der-task-force) [2021]
 
+---
+
 ## Education
 ### Rensselaer Polytechnic Institute (RPI)
 B.S. Computer Science 2013-2017
@@ -72,6 +76,8 @@ Troy, New York
 
 ### Cedar Falls High School
 Cedar Falls, Iowa 2010–2013
+
+---
 
 ## Technical Skills
 Machine Learning (AI)
@@ -107,6 +113,8 @@ Software Technologies
 * Jupyter notebooks
 * MongoDB
 * Airflow
+
+---
 
 ## Miscellaneous
 ### Theta Xi Fraternity (aka “Zoo”)
