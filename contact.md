@@ -21,4 +21,4 @@ Menu
 
 [LinkedIn](http://www.linkedin.com/in/wyattmakedonski)
 
-![Pretty Gothic Revival City](https://github.com/wyatty/wyatty.github.io/raw/main/assets/gothic_revival_city.png "Pretty Gothic Revival City")
+![Pretty Gothic Revival City](https://github.com/wyatty/wyatty.github.io/raw/main/assets/gothic_revival_city.jpg "Pretty Gothic Revival City")
