@@ -12,7 +12,7 @@ Menu
 ---
 
 # Contact
-Email: wyatt *at* gradient *dot* energy
+[wyatt@gradient.energy](mailto:wyatt@gradient.energy)
 
 [Twitter](https://twitter.com/wyatt_yy)
 

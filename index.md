@@ -385,7 +385,7 @@ Here are some of my favorite genres and bands. I sing and do vocals in my free t
 I’ve lived in over a dozen cities across several states. New York, New York has been my favorite.
 
 ## Contact
-Email: wyatt *at* gradient *dot* energy
+[wyatt@gradient.energy](mailto:wyatt@gradient.energy)
 
 [Twitter](https://twitter.com/wyatt_yy)
 
