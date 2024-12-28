@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Wyatt Makedonski's Work Highlights"
+title: "Work Highlights For Wyatt Makedonski"
 ---
 
 Menu
@@ -12,7 +12,7 @@ Menu
 
 ---
 
-# Wyatt Makedonski's Work Highlights
+# Work Highlights For Wyatt Makedonski
 
 ## [Gradient Energy](https://www.gradient.energy/)
 **Co-Founder & CEO**, Late 2022-Present
