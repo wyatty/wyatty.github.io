@@ -7,6 +7,7 @@ Menu
 * [Main](https://makedon.ski/)
 * [Research](https://makedon.ski/research)
 * [Writings](https://makedon.ski/writings)
+* [Work Highlights](https://makedon.ski/experience)
 * [Contact](https://makedon.ski/contact)
 
 ---
