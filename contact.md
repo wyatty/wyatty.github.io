@@ -20,3 +20,5 @@ Menu
 [GitHub](https://github.com/wyatty)
 
 [LinkedIn](http://www.linkedin.com/in/wyattmakedonski)
+
+![Pretty Gothic Revival City](https://github.com/wyatty/wyatty.github.io/raw/main/assets/gothic_revival_city.png "Pretty Gothic Revival City")
