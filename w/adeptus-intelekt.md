@@ -15,7 +15,7 @@ Menu
 # Adeptus Intelekt (Warhammer 40K)
 [Wyatt Makedonski](https://makedon.ski/)
 
-Ukrainian: адептичний інтелект
+*Ukrainian*: адептичний інтелект
 
 *First authored: 1/15/2025.* *Last updated: 1/16/2025*
 
