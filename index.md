@@ -79,43 +79,6 @@ Cedar Falls, Iowa 2010–2013
 
 ---
 
-## Technical Skills
-Machine Learning (AI)
-* Deep learning (various architectures and purposes): 2017-Present
-* Deep reinforcement learning (RL): 2019-Present
-* Natural language processing (NLP): 2018-Present
-* Computer vision (CV): 2021-2022
-* Large language models (LLMs): 2023-Present
-
-Machine Learning Technologies
-* TensorFlow (and Keras): 2017-2022
-* PyTorch: 2022-Present
-* RLlib (Ray): 2022-Present
-* Stable-baselines: 2019-Present
-* scikit-learn
-* numpy
-* pandas
-
-Programming languages
-* Python (strong)
-* Swift (prior experience)
-* Go (prior experience)
-* Java (prior experience)
-* C# (prior experience)
-
-Software Technologies
-* Linux (Ubuntu)
-* Amazon Web Services (AWS)
-* Google Cloud (GCP)
-* Git
-* MySQL
-* Django
-* Jupyter notebooks
-* MongoDB
-* Airflow
-
----
-
 ## Miscellaneous
 ### Theta Xi Fraternity (aka “Zoo”)
 Brother, Alpha chapter. Initiated 2014.

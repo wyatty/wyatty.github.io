@@ -167,3 +167,40 @@ Worked on AWS cloud management/policing software for internal clients; Wrote API
 I created a warranty data system that connected warranty claims with specific production segments, departments, and locations in their tractor factories. Within months of release, it was being used in multiple factories located around the world. The software used Excel as the primary UI, streamed analytics to SAS, and integrated with the enterprise SAP database.
 
 ![pretty picture 2](https://github.com/wyatty/wyatty.github.io/raw/main/assets/green_city_colorful_trains.png "Pretty Picture 2")
+
+---
+
+# Technical Skills
+Machine Learning (AI)
+* Deep learning (various architectures and purposes): 2017-Present
+* Deep reinforcement learning (RL): 2019-Present
+* Natural language processing (NLP): 2018-Present
+* Computer vision (CV): 2021-2022
+* Large language models (LLMs): 2023-Present
+
+Machine Learning Technologies
+* TensorFlow (and Keras): 2017-2022
+* PyTorch: 2022-Present
+* RLlib (Ray): 2022-Present
+* Stable-baselines: 2019-Present
+* scikit-learn
+* numpy
+* pandas
+
+Programming languages
+* Python (strong)
+* Go (prior experience)
+* Swift (prior experience)
+* Java (prior experience)
+* C++ (prior experience)
+
+Software Technologies
+* Linux (Ubuntu)
+* Amazon Web Services (AWS)
+* Google Cloud (GCP)
+* Git
+* MySQL
+* Django
+* Jupyter notebooks
+* MongoDB
+* Airflow
