@@ -22,7 +22,6 @@ I have committed my life to improving the world. This is not a light commitment 
 * [Work Highlights](#work-highlights)
 * [Research and Publications](#research-and-publications)
 * [Education](#education)
-* [Technical Skills](#technical-skills)
 * [Miscellaneous](#miscellaneous)
 * [Contact](#contact)
 
@@ -60,10 +59,6 @@ I share my thoughts on various topics, usually technical, here on my website, am
 ### Educational Materials
 I write and present, among other things, to teach people about the energy field to try and bring them into the field. I have contributed to publications on behalf of and presented to groups within the energy industry group [DER Task Force](https://www.dertaskforce.com/), and contribute to the educational group [inDERmediate](https://www.indermediate.com/).
 
-Highlighted publications:
-* For an introduction to energy and the grid, check out our [Grid Overview](https://www.indermediate.com/p/indermediate-the-grid-overview)
-* [The DER Task Force Bill of Rights](https://www.dertaskforce.com/p/task-force-feature-der-task-force) [2021]
-
 ---
 
 ## Education
@@ -96,7 +91,7 @@ Brother, Alpha chapter. Initiated 2014.
 ### Favorite Music
 Here are some of my favorite genres and bands. I sing and do vocals in my free time, and I enjoy covering a lot of them.
 
-![Immortal by Lorna Shore](https://github.com/wyatty/wyatty.github.io/raw/main/assets/Lorna_Shore_Immortal.png "Immortal")
+![The Black Crown by Suicide Silence](https://github.com/wyatty/wyatty.github.io/raw/main/assets/the_black_crown_ss.jpg "The Black Crown by Suicide Silence")
 
 * Deathcore
   * Suicide Silence (RIP Mitch)
