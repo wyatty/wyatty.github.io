@@ -22,7 +22,7 @@ I have committed my life to improving the world. This is not a light commitment 
 * [Work Highlights](#work-highlights)
 * [Research and Publications](#research-and-publications)
 * [Education](#education)
-* [Miscellaneous](#miscellaneous)
+* [Personal](#personal)
 * [Contact](#contact)
 
 ![pretty picture 1](https://github.com/wyatty/wyatty.github.io/raw/main/assets/pretty_circuit_board_earth.png "Pretty Picture 1")
@@ -74,7 +74,7 @@ Cedar Falls, Iowa 2010–2013
 
 ---
 
-## Miscellaneous
+## Personal
 ### Theta Xi Fraternity (aka “Zoo”)
 Brother, Alpha chapter. Initiated 2014.
 
