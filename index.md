@@ -93,6 +93,11 @@ Here are some of my favorite genres and bands. I sing and do vocals in my free t
 
 ![The Black Crown by Suicide Silence](https://github.com/wyatty/wyatty.github.io/raw/main/assets/the_black_crown_ss.jpg "The Black Crown by Suicide Silence")
 
+* Argent (Metal/Electronic)
+  * Mick Gordon (the Doom music)
+  * Geoffrey Day
+  * Andy Strider
+  * Aaron F. Bianchi Jupiter
 * Deathcore
   * Suicide Silence (RIP Mitch)
   * Slaughter to Prevail
@@ -152,10 +157,8 @@ Here are some of my favorite genres and bands. I sing and do vocals in my free t
   * Green Day
   * Neck Deep
 * Electronic
-  * Mick Gordon (the Doom music)
-  * Geoffrey Day
-  * Cascada
   * Kayzo
+  * Cascada
 
 ### Other
 I’ve lived in over a dozen cities across several states. New York, New York has been my favorite.
