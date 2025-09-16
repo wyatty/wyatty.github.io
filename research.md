@@ -17,32 +17,27 @@ I try to advance the world by releasing knowledge completely open source in addi
 
 ## “Dynamic Optimizing Virtual Power Plants”
 *Makedonski, et al. (first author)*
-* *November 2024*
 * Paper introduces a new type of VPP that consists of dynamic DERs (such as EVs); 
 proposes methods, algorithms, and AI models for the operation of this type of VPP 
 for its realistic real world operation.
 
 ## “Tools and Methods for Measuring Virtual Power Plants and Distributed Energy Resources”
 *Makedonski, et al. (first author)*
-* *December 2024*
 * Paper introduces tools and methods for measuring VPPs and DERs.
 
 ## “Intelligent Demand Response”
 *Makedonski, et al. (first author)*
-* *Under review*
 * Paper introduces concepts and methods for intelligent and adaptive Demand Response 
 control to improve real world operations and outcomes.
 * Paper applies concepts from machine learning, reinforcement learning, and economics.
 
 ## “A Taxonomy of Virtual Power Plants and Their Dynamics”
 *Makedonski, et al. (first author)*
-* *Intended publication date: early 2025*
 * Paper discusses different types of VPPs, proposes a classification schema, 
 discusses the various dynamics of each classification.
 
 ## “Nodal Optimizing Virtual Power Plants”
 *Makedonski, et al. (first author)*
-* *Intended publication date: early 2025*
 * Paper applies concepts from mathematical optimization, graph theory, reinforcement learning, and economics.
 
 # Electricity Grid Architecture
