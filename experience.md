@@ -15,7 +15,7 @@ Menu
 # Work Highlights For Wyatt Makedonski
 
 ## [Gradient Energy](https://www.gradient.energy/)
-**Co-Founder & CEO**, Late 2022-Present
+**Co-Founder & CEO**, Late 2023-Present
 
 Gradient Energy optimizes electric vehicle charging using AI.
 
