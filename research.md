@@ -15,21 +15,25 @@ Menu
 # Research and Publications by Wyatt Makedonski
 I try to advance the world by releasing knowledge completely open source in addition to my work. I enjoy research, learning, and sharing knowledge.
 
-## “Dynamic Optimizing Virtual Power Plants”
+## “Dynamic Optimizing Virtual Power Plants: Advancing Distributed & Renewable Energy Resource Reliability and Adoption”
 *Makedonski, et al. (first author)*
 * Paper introduces a new type of VPP that consists of dynamic DERs (such as EVs); 
 proposes methods, algorithms, and AI models for the operation of this type of VPP 
 for its realistic real world operation.
 
-## “Tools and Methods for Measuring Virtual Power Plants and Distributed Energy Resources”
+## “Better Measuring Distributed Energy Loads to Increase Reliability and Accelerate Adoption”
 *Makedonski, et al. (first author)*
-* Paper introduces tools and methods for measuring VPPs and DERs.
+* Paper introduces robust and comprehensive tools and methods for measuring distributed energy resources and their aggregations (virtual power plants).
 
 ## “Intelligent Demand Response”
 *Makedonski, et al. (first author)*
 * Paper introduces concepts and methods for intelligent and adaptive Demand Response 
 control to improve real world operations and outcomes.
 * Paper applies concepts from machine learning, reinforcement learning, and economics.
+
+## “Transforming Loads”
+*Makedonski, et al. (first author)*
+* WIP
 
 ## “A Taxonomy of Virtual Power Plants and Their Dynamics”
 *Makedonski, et al. (first author)*
