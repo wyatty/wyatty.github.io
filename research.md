@@ -52,11 +52,11 @@ I try to advance the world by releasing knowledge completely open source in addi
 * Paper extends the DOVPPs paper and introduces a new type of VPP that is topologically-aware of grid infrastructure and can optimize its operations and constituent nodes for necessary real world operations.
 * Paper applies concepts from mathematical optimization, graph theory, reinforcement learning, and economics.
 
+![VPP & AI picture 0](https://github.com/wyatty/wyatty.github.io/raw/main/assets/vpp_ai0.jpg "Cool Picture 0")
+
 # Economics
 Some of my research has broader implications in economics and game theory which I am exploring.
 
 ## “Shapley Values Evolved” [Working Title]
 *Makedonski, et al. (order TBD)*
 * Extends the concept from game theory in economics and sometimes used in machine learning (ML)
-
-![VPP & AI picture 0](https://github.com/wyatty/wyatty.github.io/raw/main/assets/vpp_ai0.jpg "Cool Picture 0")
