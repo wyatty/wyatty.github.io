@@ -28,7 +28,7 @@ I try to advance the world by releasing knowledge completely open source in addi
 
 ## “Dynamic Optimizing Virtual Power Plants: Advancing Distributed & Renewable Energy Resource Reliability and Adoption”
 *Makedonski, et al. (first author)*
-* Paper introduces a new type of VPP that consists of diverse and dynamic DERs (such as EVs); proposes methods, algorithms, and machine learning (AI) models to optimize its realistic real world operations.
+* Paper introduces more complex and realistic types of VPPs that are seen in the real world, including ones with dynamic DERs (such as EVs) and highly stochastic DERs (e.g. HVAC systems); proposes methods, algorithms, and ML models for the efficient, profitable, and reliable operation of this type of VPP.
 
 ## “Better Measuring Distributed Energy Loads to Increase Reliability and Accelerate Adoption”
 *Makedonski, et al. (first author)*
@@ -49,6 +49,7 @@ I try to advance the world by releasing knowledge completely open source in addi
 
 ## “Nodal Optimizing Virtual Power Plants”
 *Makedonski, et al. (first author)*
+* Paper extends the DOVPPs paper and introduces a new type of VPP that is topologically-aware of grid infrastructure and can optimize its operations and constituent nodes for necessary real world operations.
 * Paper applies concepts from mathematical optimization, graph theory, reinforcement learning, and economics.
 
 # Economics
