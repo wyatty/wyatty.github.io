@@ -44,6 +44,7 @@ I am not known for my lack of weakness, I have many weaknesses. I have a narrow 
 
 ## Work Highlights
 [Work Highlights](https://makedon.ski/experience)
+
 [LinkedIn](http://www.linkedin.com/in/wyattmakedonski)
 
 ---
