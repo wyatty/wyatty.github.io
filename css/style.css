@@ -23,6 +23,7 @@ footer {
     width: 100%;
 }
 img {
-    width: 100%;
+    max-width: 4in;
+    width: auto;
     height: auto;
 }
