@@ -33,7 +33,9 @@ I began working in software engineering in 2014, I have been working in energy s
 I used to work for large corporations including a big tech company, but I made the conscious decision to take a different path in life. I choose to work in what I think is the most impactful field in the world. With that, I choose to work in situations where I can make a large impact building meaningful products. I can do this at small companies (startups) instead of at large corporations with tens of thousands of employees where people are generally limited to making bug fixes, doing iterations of small A/B tests, and making internal tooling. I made this decision in 2016 and I intend to stick with it for the rest of my life.
 
 ### AI
-I have built two state of the art machine learning (ML) systems (meaning that they are the single best performing system in the world at their task) at both Gradient Energy and Yize NRG (both using deep reinforcement learning). I have built another production ML system with superhuman performance on its task (natural language processing) while at IEEE GlobalSpec. I have built another high-performing production ML system (computer vision) at HiroFit. For that product, there were no published benchmarks for state of the art or human performance (the task was not suited to be compared one-to-one to human performance) so I cannot make a claim that it exceeded their performance, but it was a pioneering system in the field with subjectively higher performance and more features than other systems, and, most importantly, it made our users very happy.
+I have built 3 separate state-of-the-art machine learning (ML) systems all within energy (meaning they were the best in the world at their task). The first system was the core product at Yize NRG in 2019 and optimized the HVAC systems of large buildings using ML for large savings and made them flexible/responsive. The second system is the core product at Gradient Energy which optimizes the charging of electric vehicles for large savings, increased reliability, greater flexibility, and helps the grid handle more EVs and distributed energy resources (DERs). That system is capable of handling very diverse scenarios, and it generalizes well and can optimize almost any arbitrary microgrid. The third system is one we are releasing freely/open sourcing which optimizes the operations of virtual power plants (VPPs), including large ones with very diverse types of DERs (EVs, batteries, PV inverters, and even virtual DERs); see the [DOVPPs (Dynamic Optimizing Virtual Power Plants)](https://makedon.ski/research) publication on my website above.
+
+I have built another production ML system with superhuman performance on its task (natural language processing) while at IEEE GlobalSpec. I have built another high-performing production ML system (computer vision) at HiroFit. For that product, there were no published benchmarks for state of the art or human performance (the task was not suited to be compared one-to-one to human performance) so I cannot make a claim that it exceeded their performance, but it was a pioneering system in the field with subjectively higher performance and more features than other systems, and, most importantly, it made our users very happy.
 
 ### I’ll Be Honest
 I am not known for my lack of weakness, I have many weaknesses. I have a narrow set of strengths and skills that I try to apply to create value. I try my best to be aware of my gaps and avoid commenting and acting on matters in those areas; I prefer to defer to someone better at those areas. Even in areas where I am relatively strong, I still have much to learn and improve.
@@ -41,8 +43,8 @@ I am not known for my lack of weakness, I have many weaknesses. I have a narrow 
 ![pretty picture 0](https://github.com/wyatty/wyatty.github.io/raw/main/assets/pretty_nn_controlling_grid_0.png "Pretty Picture 0")
 
 ## Work Highlights
-
 [Work Highlights](https://makedon.ski/experience)
+[LinkedIn](http://www.linkedin.com/in/wyattmakedonski)
 
 ---
 
@@ -97,7 +99,6 @@ Here are some of my favorite genres and bands. I sing and do vocals in my free t
   * Mick Gordon (the Doom music)
   * Geoffrey Day
   * Andy Strider
-  * Aaron F. Bianchi Jupiter
 * Deathcore
   * Suicide Silence (RIP Mitch)
   * Slaughter to Prevail
