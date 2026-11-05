@@ -18,7 +18,7 @@ Menu
 
 There is a lot of talk today about AI and data center load growth, but there is something that everybody is missing. Data center loads are not an inevitable, uncontrollable black box. Their loads are actually flexible and responsive (and applying AI is key to this). In this article, I lift the curtain on data center loads and discuss trends affecting their growth estimates.
 
-## [3 Questions About Virtual Power Plants](https://makedon.ski/w/3-questions-about-vpps)
+## [3 Pressing Questions About Virtual Power Plants](https://makedon.ski/w/3-questions-about-vpps)
 *Published December 6, 2024*
 
 In the DER Task Force, the following three questions were posed:
@@ -38,9 +38,3 @@ A concise introduction to energy and the grid.
 
 ## [The DER Task Force Bill of Rights](https://www.dertaskforce.com/p/task-force-feature-der-task-force)
 *Published: July 2022*
-
-## Fun
-### [Adeptus Intelekt (Warhammer 40K)](https://makedon.ski/w/adeptus-intelekt)
-I’m getting into Warhammer, so I created a new legion and am having some fun with it.
-
-![VPP & AI picture 0](https://github.com/wyatty/wyatty.github.io/raw/main/assets/vpp_ai1.jpg "Cool Picture 0")
