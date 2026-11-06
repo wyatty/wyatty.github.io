@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Work Highlights For Wyatt Makedonski"
+title: "Wyatt Makedonski's Work Highlights"
 ---
 
 Menu
@@ -14,8 +14,10 @@ Menu
 
 # Work Highlights For Wyatt Makedonski
 
+## [Wyatt Makedonski LinkedIn](http://www.linkedin.com/in/wyattmakedonski)
+
 ## [Gradient Energy](https://www.gradient.energy/)
-**Co-Founder & CEO**, Late 2023-Present
+**Founder, Chief Technology Officer (CTO), & Lead Research Scientist**, Late 2023-Present
 
 Gradient Energy optimizes electric vehicle charging using AI.
 
@@ -61,39 +63,23 @@ Since we worked on V2G VPPs for a while, we put a lot of effort and research int
 
 ![GE logo ](https://github.com/wyatty/wyatty.github.io/raw/main/assets/GE_logo.png "Gradient Energy logo")
 
-## Yize NRG
-**Founder & Data Scientist**, 2017-2019
+## (Government Contractor)
+**Lead Data Scientist (Contract)**, January 2023-December 2023
+Project: Large Language Model (LLM) & neurosymbolic hybrid AI agent designed for computer system administration (SysAdmin) agentic tasks
+* Experimented with proprietary LLM APIs and open source (open weight) LLM models; eventually trained a small, fast language model from scratch (now called "system one" models)
+* Designed, iterated, and optimized model/agent and its architecture to consume low power and memory
+* Emphasized safety, reliability, and security of agent’s operations; created complex safety systems (now "harnesses")
+* Architected systems to monitor language model’s RL-focused training and evaluation
+* Designed systems to serve the model in low-resource environments and monitor performance remotely & intermittently
 
-Yize NRG ("wise energy") used AI to optimize the operations of HVAC (heating and cooling) systems for buildings for big savings and flexibility.
+Led small team to build and train agents; interfaced with liaisons to build deployed serving and monitoring software
 
-### Explained
-Using AI to optimize the operating cost of large buildings is very promising, as shown by [Google DeepMind’s optimization of Google’s data centers](https://deepmind.google/discover/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-by-40/). We initially targeted large office buildings (e.g. high rises in Manhattan). In target buildings, the HVAC system would consume 50-70% of all energy consumed in the building. We could save 15% all the way up to 50% on HVAC energy usage (there are many variables in this calculation, the high end is for environments with a high degree of flexibility).
-
-### Impact
-Optimizing HVAC systems seems pretty boring and esoteric. Are you wondering about the implications and impacts of it? [Contact me, they're more than you think](https://makedon.ski/contact).
-
-### AI
-At Yize NRG, for the optimization of HVAC systems, we used deep RL. I experimented with a wide variety of RL algorithms, configurations, and neural network architectures. Based on all published results, our AI system was state of the art, meaning it was the best in the world at its task when compared to other systems using standard benchmarks in 2019. Beyond these narrow benchmarks, we expanded the agent’s capabilities in our custom simulator. We forked the highest quality HVAC simulator available and improved on it to allow the agent to learn and handle more diverse situations and optimization objectives.
-
-Here are some of the technical challenges I faced in deep RL at Yize NRG:
-* Debugging RL agent training (it’s an eternal problem in the field)
-* Stabilizing agent behavior with a time-dynamic reward function
-* Enforcing two sets of constraints on agent behavior to ensure safety
-* Ensuring high reliability and stability operating in critical systems
-* Incorporating human action signals into agent behavior predictably and reliably
-* Bridging the sim-to-real gap
-* Monitoring agents in production
-* [Ask me](https://makedon.ski/contact)
-
-As you can see, there is much overlap with my current work at [Gradient Energy](#gradient-energy). Luckily for me, the field has progressed significantly since 2019 so a lot of these challenges have become much easier.
-
-### Short Term Load Forecasting
-Before working on the HVAC optimization product, we worked on a product for short term load forecasting (STLF) for electric utilities for more than a year. We partnered with several electric utilities to get their data to train our models on. Our performance exceeded the baselines set by other common STLF methods for the dataset for each utility. We did not find a standard benchmark to compare our methods against, so we cannot make specific claims, just that they surpassed common methods on our datasets. We paused work on this product for several business reasons and shifted focus to the HVAC product.
-
-![Yize NRG logo ](https://github.com/wyatty/wyatty.github.io/raw/main/assets/YizeNRG_logo.png "Yize NRG logo")
+```
+NOTE: This project was started in January 2023 and was pioneering looking back; it featured neurosymbolic AI, “LLM / language model agents / agentic tasks”, agent “harnesses”, and "system one" models.
+```
 
 ## HiroFit
-**Lead Data Scientist**, Early 2021-Late 2022
+**Chief Technology Officer/CTO (Promoted from Senior Data Scientist)**, Early 2021-Late 2022
 
 HiroFit turned your phone into your own personal fitness trainer using AI.
 
@@ -151,6 +137,37 @@ Besides those two products, I contributed bug fixes, features, and A/B tests to 
 
 ![IEEE GlobalSpec Logo](https://github.com/wyatty/wyatty.github.io/raw/main/assets/ieee_globalspec_logo.jpg "IEEE GlobalSpec logo")
 
+## Yize NRG
+**Founder & Data Scientist**, 2017-2019
+
+Yize NRG ("wise energy") used AI to optimize the operations of HVAC (heating and cooling) systems for buildings for big savings and flexibility.
+
+### Explained
+Using AI to optimize the operating cost of large buildings is very promising, as shown by [Google DeepMind’s optimization of Google’s data centers](https://deepmind.google/discover/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-by-40/). We initially targeted large office buildings (e.g. high rises in Manhattan). In target buildings, the HVAC system would consume 50-70% of all energy consumed in the building. We could save 15% all the way up to 50% on HVAC energy usage (there are many variables in this calculation, the high end is for environments with a high degree of flexibility).
+
+### Impact
+Optimizing HVAC systems seems pretty boring and esoteric. Are you wondering about the implications and impacts of it? [Contact me, they're more than you think](https://makedon.ski/contact).
+
+### AI
+At Yize NRG, for the optimization of HVAC systems, we used deep RL. I experimented with a wide variety of RL algorithms, configurations, and neural network architectures. Based on all published results, our AI system was state of the art, meaning it was the best in the world at its task when compared to other systems using standard benchmarks in 2019. Beyond these narrow benchmarks, we expanded the agent’s capabilities in our custom simulator. We forked the highest quality HVAC simulator available and improved on it to allow the agent to learn and handle more diverse situations and optimization objectives.
+
+Here are some of the technical challenges I faced in deep RL at Yize NRG:
+* Debugging RL agent training (it’s an eternal problem in the field)
+* Stabilizing agent behavior with a time-dynamic reward function
+* Enforcing two sets of constraints on agent behavior to ensure safety
+* Ensuring high reliability and stability operating in critical systems
+* Incorporating human action signals into agent behavior predictably and reliably
+* Bridging the sim-to-real gap
+* Monitoring agents in production
+* [Ask me](https://makedon.ski/contact)
+
+As you can see, there is much overlap with my current work at [Gradient Energy](#gradient-energy). Luckily for me, the field has progressed significantly since 2019 so a lot of these challenges have become much easier.
+
+### Short Term Load Forecasting
+Before working on the HVAC optimization product, we worked on a product for short term load forecasting (STLF) for electric utilities for more than a year. We partnered with several electric utilities to get their data to train our models on. Our performance exceeded the baselines set by other common STLF methods for the dataset for each utility. We did not find a standard benchmark to compare our methods against, so we cannot make specific claims, just that they surpassed common methods on our datasets. We paused work on this product for several business reasons and shifted focus to the HVAC product.
+
+![Yize NRG logo ](https://github.com/wyatty/wyatty.github.io/raw/main/assets/YizeNRG_logo.png "Yize NRG logo")
+
 ## Cisco Systems
 **Software Engineer Intern**, 2015, San Jose, California
 
@@ -174,25 +191,26 @@ I created a warranty data system that connected warranty claims with specific pr
 Machine Learning (AI)
 * Deep learning (various architectures and purposes): 2017-Present
 * Deep reinforcement learning (RL): 2019-Present
+* Agents (RL): 2019-Present
 * Natural language processing (NLP): 2018-Present
 * Computer vision (CV): 2021-2022
 * Large language models (LLMs): 2023-Present
 
 Machine Learning Technologies
-* TensorFlow (and Keras): 2017-2022
 * PyTorch: 2022-Present
 * RLlib (Ray): 2022-Present
 * Stable-baselines: 2019-Present
 * scikit-learn
 * numpy
 * pandas
+* TensorFlow (and Keras): 2017-2022
 
 Programming languages
-* Python (strong)
+* Python
+* C++
 * Go (prior experience)
 * Swift (prior experience)
 * Java (prior experience)
-* C++ (prior experience)
 
 Software Technologies
 * Linux (Ubuntu)
@@ -204,3 +222,14 @@ Software Technologies
 * Jupyter notebooks
 * MongoDB
 * Airflow
+* Docker
+* Kubernetes
+
+Mathematics
+* Multivariable calculus
+* Linear algebra
+* Probability theory
+* Information theory
+* Optimization
+* Statistics
+* Stochastic calculus (currently learning)
