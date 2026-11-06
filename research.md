@@ -39,11 +39,11 @@ I try to advance the world by releasing knowledge completely open source in addi
 * Paper introduces concepts and methods for intelligent and adaptive Demand Response control to drastically improve real world operations and outcomes.
 * Paper applies concepts from machine learning, reinforcement learning, and economics.
 
-## “Transforming Power Loads: Measuring Difficulty in Changing Behaviors in Energy Usage” [Working Title]
+## “Transforming Electricity Loads: Measuring Difficulty in Changing Behaviors in Energy Usage” [Working Title]
 *Makedonski, et al. (first author)*
 * Paper answers the question, “How can we influence the behaviors of people using energy to improve outcomes?” in a rigorous and effective manner. Has broader implications in economics.
 
-## “A Taxonomy of Virtual Power Plants and Their Dynamics”
+## “A Taxonomy of Virtual Power Plants and Their Dynamics” [Working Title]
 *Makedonski, et al. (first author)*
 * Paper discusses different types of VPPs and DERs; proposes a classification schema, discusses the various dynamics of each classification and their effects, and other related topics
 
