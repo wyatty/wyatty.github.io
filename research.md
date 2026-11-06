@@ -60,3 +60,6 @@ Some of my research has broader implications in economics and game theory which 
 ## “Shapley Values Evolved” [Working Title]
 *Makedonski, et al. (order TBD)*
 * Extends the concept from game theory in economics and sometimes used in machine learning (ML)
+
+## Ξ Economics (Xi Economics)
+*Makedonski, et al.*
