@@ -45,7 +45,7 @@ I try to advance the world by releasing knowledge completely open source in addi
 
 ## “A Taxonomy of Virtual Power Plants and Their Dynamics”
 *Makedonski, et al. (first author)*
-* Paper discusses different types of VPPs, proposes a classification schema, discusses the various dynamics of each classification.
+* Paper discusses different types of VPPs and DERs; proposes a classification schema, discusses the various dynamics of each classification and their effects, and other related topics
 
 ## “Nodal Optimizing Virtual Power Plants”
 *Makedonski, et al. (first author)*
