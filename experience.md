@@ -78,6 +78,8 @@ Led small team to build and train agents; interfaced with liaisons to build depl
 NOTE: This project was started in January 2023 and was pioneering looking back; it featured neurosymbolic AI, “LLM / language model agents / agentic tasks”, agent “harnesses”, and "system one" models.
 ```
 
+![Filler image](https://github.com/wyatty/wyatty.github.io/raw/main/assets/neural_circuit_fusion.png "neural circuit board")
+
 ## HiroFit
 **Chief Technology Officer/CTO (Promoted from Senior Data Scientist)**, Early 2021-Late 2022
 
