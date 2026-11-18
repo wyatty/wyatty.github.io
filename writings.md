@@ -13,7 +13,7 @@ Menu
 ---
 
 # Writings by Wyatt Makedonski
-## [Distributed Energy, Its Automation, and The Rise of Flexible Demand](https://makedon.ski/w/ders-automation-and-flexible-demand.md)
+## [Distributed Energy, Its Automation, and The Rise of Flexible Demand](https://makedon.ski/w/ders-automation-and-flexible-demand)
 *Published November ??, 2026*
 
 >Statement coming soon
