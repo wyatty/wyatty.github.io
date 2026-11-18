@@ -12,7 +12,7 @@ Menu
 
 ---
 
-# 3 Questions About Virtual Power Plants
+# 3 Pressing Questions About Virtual Power Plants
 [Wyatt Makedonski](https://makedon.ski/)
 
 *Published: December 6, 2024*
