@@ -13,6 +13,11 @@ Menu
 ---
 
 # Writings by Wyatt Makedonski
+## [Distributed Energy, Its Automation, and The Rise of Flexible Demand](https://makedon.ski/w/ders-automation-and-flexible-demand.md)
+*Published November ??, 2026*
+
+>Statement coming soon
+
 ## [AI & Data Center Load Growth: A Unique Perspective](https://makedon.ski/w/ai-data-center-load-growth)
 *Published October 24, 2024*
 
