@@ -44,7 +44,7 @@ X
 ## Call for Collaborators
 X
 
->I mention my research a lot and how the publications are upcoming. I built a considerable backlog of research publications and other work as my health deteriorated, but I have since fully recovered and am working through that backlog. If you are interested in reading my research and related works when they come out, [email me or follow me on Twitter](https://makedon.ski/#contact) (please note that I do not post on social media except when it relates to my work or my research).
+>X
 
 ---
 **R.I.P. Frankenstein** I wrote much of this article on your last day. You were my little buddy. I'm relieved you're no longer suffering. I learned a lot from my time with you, and I'm glad to have known you. Get some sleep, buddy.
