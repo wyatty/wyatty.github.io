@@ -77,13 +77,17 @@ Brother, Alpha chapter. Initiated 2014.
 
 ### Favorite Books
 * “Meditations” by Marcus Aurelius
-* “Zero to One” by Peter Thiel
-* “Daily Stoic” by Ryan Holiday
-* “Factfulness” by Hans Rosling
-* “Extreme Ownership” by Jocko Willink and Leif Babin
+* “Thinking in Systems” by Donella Meadows
 * “Strong Towns” by Chuck Marohn
+* “Making Sense of Chaos” by J. Doyne Farmer
+* “Reshuffle” by Sangeet Paul Choudary
+* “Platform Revolution” by Choudary, et al.
+* “The Rise and Fall of American Growth” by Robert J. Gordon
 * “Grit” by Angela Duckworth
 * “Peak” by Anders Ericsson
+* “Factfulness” by Hans Rosling
+* “Daily Stoic” by Ryan Holiday
+* “The Book of Why” by Judea Pearl
 
 ### Favorite Music
 Here are some of my favorite genres and bands. I sing and do vocals in my free time, and I enjoy covering a lot of them.
